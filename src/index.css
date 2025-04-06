@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@theme {
+  /* Primary */
+
+  --color-DarkBlueIntroEmailSignBackground: #1c2431;
+  --color-DarkBlueMainBackground: #181f2a;
+  --color-DarkBlueFooterBackground: #0b1523;
+  --color-DarkBlueTestimonialsBackground: #202a3c;
+
+  /* Accent */
+
+  --color-Cyan: #65e2d9; /* inside call-to-action gradient */
+  --color-Blue: #339ecc; /* inside call-to-action gradient */
+  --color-LightRed: #ff4242; /* error */
+
+  /* fonts */
+
+  /* Headings, Call-to-actions, Header Navigation */
+
+  --font-Headings: "Raleway", sans-serif;
+
+  /* body */
+
+  --font-body: "Open Sans", sans-serif;
+}

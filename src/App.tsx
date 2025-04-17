@@ -1,7 +1,11 @@
+import Header from "./Header/Header";
+import Hero from "./Hero/Hero";
+
 function App() {
   return (
     <>
-      <h1>hola mundo</h1>
+      <Header />
+      <Hero />
     </>
   );
 }

@@ -21,7 +21,7 @@ const Data = [
     title: "Store any type of file",
     description:
       "Whether you´re sharing holidays photos or work documents, Fylo has you covered allowing for all file types to be securely stored and shared.",
-    image: "/public/images/icon-any-file.svg",
+    image: "/images/icon-any-file.svg",
   },
 ];
 
